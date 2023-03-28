@@ -31,9 +31,10 @@
   .conteudo{
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 10px;
     background-color: #ffffff;
-    width: 185px;
+    width: 200px;
   }
   
   .imagem {
@@ -42,14 +43,15 @@
   }
 
   h1 {
-    font-size: 15px;
+    font-size: 16px;
     text-align: center;
     font-family: 'Outfit', sans-serif;
   }
   
   p {
     text-align: center;
-    font-size: 12px;
+    font-size: 10px;
     font-family: 'Outfit', sans-serif;
     color: #79899f;
+    width: 161px;
   }
