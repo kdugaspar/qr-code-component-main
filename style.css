@@ -42,13 +42,13 @@
     }
 
     .imagem {
-      width: 297px;
+      width: 296px;
       border-radius: 10px;
 
     }
 
     h1 {
-      font-size: 23px;
+      font-size: 22.9px;
       text-align: center;
       font-family: 'Outfit', sans-serif;
       width: 290px;
@@ -58,7 +58,7 @@
     p {
       width: 259px;
       text-align: center;
-      font-size: 16px;
+      font-size: 15.7px;
       font-family: 'Outfit', sans-serif;
       color: #79899f;
       background-color: rgb(255, 255, 255);
