@@ -17,7 +17,7 @@
     .sesao-um {
       
       background-color: rgb(255, 255, 255);
-      border: 12px solid rgb(255, 255, 255);
+      border: 13px solid rgb(255, 255, 255);
       border-radius: 15px 15px 15px 15px;
       border-bottom: 40px solid rgb(255, 255, 255);
     }
@@ -41,7 +41,7 @@
     }
 
     .imagem {
-      width: 300px;
+      width: 299px;
       border-radius: 10px;
 
     }
