@@ -6,7 +6,7 @@
       padding: 0;
     }
 
-    .conteudo-principal {
+    main {
       background-color: #d6e1f0;
       display: flex;
       flex-direction: row;
@@ -15,7 +15,7 @@
       min-height: 100vh;
     }
 
-    .sesao-dois {
+    section {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -28,7 +28,7 @@
       border-bottom: 40px solid rgb(255, 255, 255);
     }
 
-    .conteudo {
+    article {
       display: flex;
       flex-direction: column;
       align-items: center;
