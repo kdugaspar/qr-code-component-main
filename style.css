@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@700&display=swap');
 
     * {
       margin: 0;
@@ -37,22 +38,23 @@
     }
 
     .imagem {
-      width: 305px;
+      width: 296px;
       border-radius: 10px;
 
     }
 
     h1 {
-      font-size: 24px;
+      font-size: 22.9px;
       text-align: center;
       font-family: 'Outfit', sans-serif;
-      width: 295px;
+      width: 290px;
+      color: #262F4C;
     }
 
     p {
       width: 259px;
       text-align: center;
-      font-size: 16px;
+      font-size: 15.7px;
       font-family: 'Outfit', sans-serif;
       color: #79899f;
       background-color: rgb(255, 255, 255);
